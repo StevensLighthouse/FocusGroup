@@ -78,17 +78,16 @@ for students visiting the Stevens campus.
 
 -- question
 
-### 2. Should individuals create and manage tours themselves or have a business do it for them?
+### 2. What businesses or industries do you feel would benefit from this product?
 
 -- question
 
-### 3. What businesses or industries do you feel would benefit from this product?
+### 3. Do you feel the functionality of this product is already served by another product?
 
 -- question
 
-### 4. Do you feel the functionality of this product is already served by another product?
+### 4. Should we crowd-source the creation of tours?
 
 -- question
 
-### 5. Should we crowd-source the creation of tours?
-
+### 5. Should individuals create and manage tours themselves or have a business do it for them?
