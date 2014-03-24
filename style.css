@@ -13,3 +13,8 @@ h2 {
   bottom: 30px
 }
 
+.question h3 {
+  border: none;
+  margin-top: 80px;
+  font-size: 180%;
+}
