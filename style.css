@@ -1,0 +1,15 @@
+h1 {
+  font-size: 120px;
+  position: absolute;
+  left: 30px;
+  bottom: 130px;
+}
+
+h2 {
+  font-size: 80px;
+  font-style: italic;
+  position: absolute;
+  left: 30px;
+  bottom: 30px
+}
+
