@@ -74,7 +74,7 @@ for students visiting the Stevens campus.
 
 -- question
 
-### 1. Do you find the process of creating of a tour to be easy and intuitive?
+### 1. Do you find the process of creating a tour to be easy and intuitive?
 
 -- question
 
@@ -90,9 +90,5 @@ for students visiting the Stevens campus.
 
 -- question
 
-### 5. Could you see this application being useful in your community?
-
--- question
-
-### 6. Should we allow individuals (not associated with any organization) to create "crowd-sourced" tours?
+### 5. Should we crowd-source the creation of tours?
 
