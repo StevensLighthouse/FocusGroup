@@ -34,9 +34,13 @@ for students visiting the Stevens campus.
 * An interactive walking tour app
 * An easy panel to create/manage walking tours
 
---
+-- bg admin-panel
 
-## Screenshots
+<!-- admin panel screenshot -->
+
+-- bg mobile-app
+
+<!-- mobile app screenshot -->
 
 --
 

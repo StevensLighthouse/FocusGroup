@@ -18,3 +18,17 @@ h2 {
   margin-top: 80px;
   font-size: 180%;
 }
+
+.bg {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.admin-panel {
+  background-image: url('admin.png');
+}
+
+.mobile-app {
+  background-image: url('app.png');
+}
